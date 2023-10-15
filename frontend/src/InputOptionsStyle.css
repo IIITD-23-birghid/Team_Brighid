@@ -1,0 +1,19 @@
+.center{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.center div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #36B782;
+    border-radius: 10px;
+    width: 80vw;
+    height: 50px;
+    margin-bottom: 1rem;
+    color: white;
+}

@@ -1,0 +1,27 @@
+nav {
+    background: var(--neutrals-white, #fdfdfdf8);
+    width: 100vw; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    padding: 0.7rem 1.7rem;
+    position: fixed;
+    bottom: 0rem;
+    gap: 0.8rem;
+    border-radius:10px 10px 0px 0px;
+}
+
+nav a {
+    background: transparent;
+    padding: 0.9rem;
+    border-radius: 50%;
+    display: flex;
+    color: var(--color-grey);
+    font-size: 1.1rem;
+}
+
+
+nav a.active {
+    color: var(--color-white);
+    background:#0516446b;
+}

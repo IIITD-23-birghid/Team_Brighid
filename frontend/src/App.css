@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --color-bg: linear-gradient(rgba(8, 48, 64, 0.00) 100%);
+  --color-bg-light: #144F4D;
+  --color-bg-darker:#032D38;
+  --color-bg-dark: #053744;
+  --color-main-green: #36B782;
+  --color-dark-green: #129976;
+  --color-red:#FF566C;
+  --color-button:  linear-gradient(90deg, #129976 -31.97%, #23FFC6 118.85%);
+  --color-white:  #FFFFFF;
+  --color-grey: #535D66;
+  --color-red: #FF566C
+  --transition: all 400ms ease;
+
+  --container-width-lg: 75%;
+  --container-width-md: 86%;
+  --container-width-sm: 90%;
+}
+.white-image{
+  width: 85vw;
+  height: 164px;
+  background-color: white;
+  border-radius: 10px;
+  margin: .1rem 1rem 0 1rem;
+}
+.flex-box{
+  flex:0.5;
+  background: #032D38;
+  height: 150px;
+  border-radius: 10px;
+}
+.flex-box-scroll{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  overflow: scroll;
+}
+.flex-box-2{
+  margin: 1rem;
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 10px;
+}
+.h1-highlight{
+  color:#FF566C;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+body{
+  font-family: "Poppins", sans-serif;
+  /* background: linear-gradient(180deg, #092D3D 0%, #063644 26.05%, #023A47 46.4%, #00404C 60.91%, #00414B 75.88%, #00404C 92.64%, rgba(8, 48, 64, 0.00) 100%); */
+  background-color: #063644;
+  line-height: 1.7;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 600;
+}

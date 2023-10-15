@@ -1,0 +1,18 @@
+.card__transport{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    color: white;
+    padding: 4vw;
+    gap: 4vw;
+    min-width: 40%;
+    background-color: var(--color-bg-darker);
+}
+
+.transport__image{
+    width: 100%;
+    border-radius: 50%;
+}

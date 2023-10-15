@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 7vw;
+}
+.left{
+    width: 75%;
+    color: var(--color-main-green);
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.header__image{
+    width: 25%;
+}
+
+.currenttime{
+    font-size: auto;
+    color: white;
+}

@@ -1,0 +1,10 @@
+form div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    border: 1px solid gray;
+    padding: 2px;
+    border-radius: 5px;
+}
