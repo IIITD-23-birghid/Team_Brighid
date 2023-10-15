@@ -17,13 +17,15 @@ So we used [Teachable Machine]() and initiative by google to make ML more access
 We can showcase the Model on our machines (cause we don't exactly know how to transfer them to github 👀)
 
 Some Images from our testing:
-![Screenshot 2023-10-15 at 10.51.02 AM.png]
 
-![Screenshot 2023-10-15 at 10.50.38 AM.png]
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-15%20at%2010.49.34%20AM.png)
 
-![Screenshot 2023-10-15 at 10.49.55 AM.png]
 
-![Screenshot 2023-10-15 at 10.49.34 AM.png]
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-15%20at%2010.49.55%20AM.png)
+
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-15%20at%2010.50.38%20AM.png)
+
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-15%20at%2010.51.02%20AM.png)
 
 
 PSS - We have also included our failed attempts at using `tensorflow.js` in a folder called `tensorflow-testing` 
@@ -68,18 +70,18 @@ Helping users measure , track and reduce their carbon footprint
 
 ### Carbon Footprint of common items
 ##### Food Consumption
-![Screenshot 2023-10-14 at 6.06.06 PM.png]
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-14%20at%206.06.06%20PM.png)
 ##### General Consumption
-![Screenshot 2023-10-14 at 6.06.31 PM.png]
+![](https://github.com/IIITD-23-birghid/Team_Brighid/blob/main/Screenshot%202023-10-14%20at%206.06.31%20PM.png)
 ##### Transportation
-![Screenshot 2023-10-14 at 6.06.48 PM.png]
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-14%20at%206.06.48%20PM.png)
 ##### At Home
-![Screenshot 2023-10-14 at 6.07.29 PM.png]
+![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-14%20at%206.07.13%20PM.png)
 
 
 ### Data Sourcing
 - [Food Data and Research Reference](https://www.kaggle.com/code/selfvivek/choose-your-food-wisely)
-	![[Screenshot 2023-10-14 at 6.39.22 PM.png]]
+	![](https://raw.githubusercontent.com/IIITD-23-birghid/Team_Brighid/main/Screenshot%202023-10-14%20at%206.39.22%20PM.png)
 - [Metro Travel](https://www.delhimetrorail.com/carbonlite-metro-travel)
 - [AI Models Carbon Emissions](https://www.technologyreview.com/2022/11/14/1063192/were-getting-a-better-idea-of-ais-true-carbon-footprint/)
 
@@ -113,3 +115,4 @@ Tech we are using
 ## References
 [Tensor Flow Tutorials](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#7)
 [Wondefull Carbon Footprint Website](https://clevercarbon.io/carbon-footprint-of-common-items/)
+
