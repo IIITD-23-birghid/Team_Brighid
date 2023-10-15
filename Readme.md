@@ -113,6 +113,8 @@ Tech we are using
 
 
 ## References
-[Tensor Flow Tutorials](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#7)
-[Wondefull Carbon Footprint Website](https://clevercarbon.io/carbon-footprint-of-common-items/)
-[Amazing Data Visualization on Carbon Footprint of different Foods](https://www.kaggle.com/code/selfvivek/choose-your-food-wisely)
+- [Tensor Flow Tutorials](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#7)
+
+- [Wondefull Carbon Footprint Website](https://clevercarbon.io/carbon-footprint-of-common-items/)
+
+- [Amazing Data Visualization on Carbon Footprint of different Foods](https://www.kaggle.com/code/selfvivek/choose-your-food-wisely)
