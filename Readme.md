@@ -17,13 +17,13 @@ So we used [Teachable Machine]() and initiative by google to make ML more access
 We can showcase the Model on our machines (cause we don't exactly know how to transfer them to github 👀)
 
 Some Images from our testing:
-![[Screenshot 2023-10-15 at 10.51.02 AM.png]]
+![Screenshot 2023-10-15 at 10.51.02 AM.png]
 
-![[Screenshot 2023-10-15 at 10.50.38 AM.png]]
+![Screenshot 2023-10-15 at 10.50.38 AM.png]
 
-![[Screenshot 2023-10-15 at 10.49.55 AM.png]]
+![Screenshot 2023-10-15 at 10.49.55 AM.png]
 
-![[Screenshot 2023-10-15 at 10.49.34 AM.png]]
+![Screenshot 2023-10-15 at 10.49.34 AM.png]
 
 
 PSS - We have also included our failed attempts at using `tensorflow.js` in a folder called `tensorflow-testing` 
@@ -68,13 +68,13 @@ Helping users measure , track and reduce their carbon footprint
 
 ### Carbon Footprint of common items
 ##### Food Consumption
-![[Screenshot 2023-10-14 at 6.06.06 PM.png]]
+![Screenshot 2023-10-14 at 6.06.06 PM.png]
 ##### General Consumption
-![[Screenshot 2023-10-14 at 6.06.31 PM.png]]
+![Screenshot 2023-10-14 at 6.06.31 PM.png]
 ##### Transportation
-![[Screenshot 2023-10-14 at 6.06.48 PM.png]]
+![Screenshot 2023-10-14 at 6.06.48 PM.png]
 ##### At Home
-![[Screenshot 2023-10-14 at 6.07.29 PM.png]]
+![Screenshot 2023-10-14 at 6.07.29 PM.png]
 
 
 ### Data Sourcing
